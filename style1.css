@@ -1,1 +1,11 @@
 
+hr{
+  background-color:#0F3057;
+  color: white;
+  border-style: dotted none none ;
+  width: 5%;
+  border-width: 7px;
+}
+h1{
+  color:orange;
+}
